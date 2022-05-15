@@ -17,7 +17,7 @@ Contents:
     - Learning rate
     - Cost function
 - R2 (coefficient of determination)
-- Cross validation and Stratified K-Fold <mark>(Code)</mark>
+- Cross validation and Stratified K-Fold ***{Code}***
 
 ### [Session 3:](Machine_Learning_Sessions/ML_Basics_3.ipynb)
 - Logistic regression
@@ -45,7 +45,7 @@ Contents:
         - Mini Batch Gradient descent
         - Problems with Gradient descent
 - [Tensorflow Playground](http://playground.tensorflow.org/) interactive MLP 
-- Digit classification using Keras (MNIST dataset) <mark>(Code)</mark>
+- Digit classification using Keras (MNIST dataset) ***{Code}***
 
 ### [Session 6:](Machine_Learning_Sessions/ML_Basics_6.ipynb)
 - Accuracy score
@@ -67,7 +67,7 @@ Contents:
 - Dense layers
 - Droppout layer
 - Leaky Relu activation
-- Convolutional Neural network (CIFAR-10 dataset) <mark>(Code)</mark>
+- Convolutional Neural network (CIFAR-10 dataset) ***{Code}***
 
 ### [Session 8:](Machine_Learning_Sessions/ML_Basics_8.ipynb)
 - Transfer learning
@@ -76,7 +76,7 @@ Contents:
     - Applications 
 
 ### [Session 9:](Machine_Learning_Sessions/ML_Basics_9.ipynb)
-- Autoencoder Implementation <mark>(Code)</mark>
+- Autoencoder Implementation ***{Code}***
     - Simple implementation (Bare skeleton)
     - Proper implementation (With sufficient layers in encoder and decoder)
 
